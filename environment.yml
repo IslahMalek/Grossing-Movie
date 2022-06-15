@@ -1,0 +1,6 @@
+name:Grossing Movie
+channels:
+  - conda-forge
+dependencies:
+  - pyhton =3
+  - obspy >=1.2.0
