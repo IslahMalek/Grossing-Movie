@@ -1,4 +1,4 @@
-name: myenv
+name: Grossing Movie
 channels:
   - defaults
 dependencies:
